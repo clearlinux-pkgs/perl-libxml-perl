@@ -4,7 +4,7 @@
 #
 Name     : perl-libxml-perl
 Version  : 0.08
-Release  : 3
+Release  : 4
 URL      : https://cpan.metacpan.org/authors/id/K/KM/KMACLEOD/libxml-perl-0.08.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/K/KM/KMACLEOD/libxml-perl-0.08.tar.gz
 Summary  : Collection of Perl modules for working with XML
@@ -96,19 +96,19 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.30.2/Data/Grove.pm
-/usr/lib/perl5/vendor_perl/5.30.2/Data/Grove/Parent.pm
-/usr/lib/perl5/vendor_perl/5.30.2/Data/Grove/Visitor.pm
-/usr/lib/perl5/vendor_perl/5.30.2/XML/ESISParser.pm
-/usr/lib/perl5/vendor_perl/5.30.2/XML/Handler/CanonXMLWriter.pm
-/usr/lib/perl5/vendor_perl/5.30.2/XML/Handler/Sample.pm
-/usr/lib/perl5/vendor_perl/5.30.2/XML/Handler/Subs.pm
-/usr/lib/perl5/vendor_perl/5.30.2/XML/Handler/XMLWriter.pm
-/usr/lib/perl5/vendor_perl/5.30.2/XML/Parser/PerlSAX.pm
-/usr/lib/perl5/vendor_perl/5.30.2/XML/PatAct/ActionTempl.pm
-/usr/lib/perl5/vendor_perl/5.30.2/XML/PatAct/Amsterdam.pm
-/usr/lib/perl5/vendor_perl/5.30.2/XML/PatAct/MatchName.pm
-/usr/lib/perl5/vendor_perl/5.30.2/XML/PatAct/PatternTempl.pm
-/usr/lib/perl5/vendor_perl/5.30.2/XML/PatAct/ToObjects.pm
-/usr/lib/perl5/vendor_perl/5.30.2/XML/Perl2SAX.pm
-/usr/lib/perl5/vendor_perl/5.30.2/XML/SAX2Perl.pm
+/usr/lib/perl5/vendor_perl/5.30.3/Data/Grove.pm
+/usr/lib/perl5/vendor_perl/5.30.3/Data/Grove/Parent.pm
+/usr/lib/perl5/vendor_perl/5.30.3/Data/Grove/Visitor.pm
+/usr/lib/perl5/vendor_perl/5.30.3/XML/ESISParser.pm
+/usr/lib/perl5/vendor_perl/5.30.3/XML/Handler/CanonXMLWriter.pm
+/usr/lib/perl5/vendor_perl/5.30.3/XML/Handler/Sample.pm
+/usr/lib/perl5/vendor_perl/5.30.3/XML/Handler/Subs.pm
+/usr/lib/perl5/vendor_perl/5.30.3/XML/Handler/XMLWriter.pm
+/usr/lib/perl5/vendor_perl/5.30.3/XML/Parser/PerlSAX.pm
+/usr/lib/perl5/vendor_perl/5.30.3/XML/PatAct/ActionTempl.pm
+/usr/lib/perl5/vendor_perl/5.30.3/XML/PatAct/Amsterdam.pm
+/usr/lib/perl5/vendor_perl/5.30.3/XML/PatAct/MatchName.pm
+/usr/lib/perl5/vendor_perl/5.30.3/XML/PatAct/PatternTempl.pm
+/usr/lib/perl5/vendor_perl/5.30.3/XML/PatAct/ToObjects.pm
+/usr/lib/perl5/vendor_perl/5.30.3/XML/Perl2SAX.pm
+/usr/lib/perl5/vendor_perl/5.30.3/XML/SAX2Perl.pm
