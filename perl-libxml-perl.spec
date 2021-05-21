@@ -96,19 +96,19 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.32.1/Data/Grove.pm
-/usr/lib/perl5/vendor_perl/5.32.1/Data/Grove/Parent.pm
-/usr/lib/perl5/vendor_perl/5.32.1/Data/Grove/Visitor.pm
-/usr/lib/perl5/vendor_perl/5.32.1/XML/ESISParser.pm
-/usr/lib/perl5/vendor_perl/5.32.1/XML/Handler/CanonXMLWriter.pm
-/usr/lib/perl5/vendor_perl/5.32.1/XML/Handler/Sample.pm
-/usr/lib/perl5/vendor_perl/5.32.1/XML/Handler/Subs.pm
-/usr/lib/perl5/vendor_perl/5.32.1/XML/Handler/XMLWriter.pm
-/usr/lib/perl5/vendor_perl/5.32.1/XML/Parser/PerlSAX.pm
-/usr/lib/perl5/vendor_perl/5.32.1/XML/PatAct/ActionTempl.pm
-/usr/lib/perl5/vendor_perl/5.32.1/XML/PatAct/Amsterdam.pm
-/usr/lib/perl5/vendor_perl/5.32.1/XML/PatAct/MatchName.pm
-/usr/lib/perl5/vendor_perl/5.32.1/XML/PatAct/PatternTempl.pm
-/usr/lib/perl5/vendor_perl/5.32.1/XML/PatAct/ToObjects.pm
-/usr/lib/perl5/vendor_perl/5.32.1/XML/Perl2SAX.pm
-/usr/lib/perl5/vendor_perl/5.32.1/XML/SAX2Perl.pm
+/usr/lib/perl5/vendor_perl/5.34.0/Data/Grove.pm
+/usr/lib/perl5/vendor_perl/5.34.0/Data/Grove/Parent.pm
+/usr/lib/perl5/vendor_perl/5.34.0/Data/Grove/Visitor.pm
+/usr/lib/perl5/vendor_perl/5.34.0/XML/ESISParser.pm
+/usr/lib/perl5/vendor_perl/5.34.0/XML/Handler/CanonXMLWriter.pm
+/usr/lib/perl5/vendor_perl/5.34.0/XML/Handler/Sample.pm
+/usr/lib/perl5/vendor_perl/5.34.0/XML/Handler/Subs.pm
+/usr/lib/perl5/vendor_perl/5.34.0/XML/Handler/XMLWriter.pm
+/usr/lib/perl5/vendor_perl/5.34.0/XML/Parser/PerlSAX.pm
+/usr/lib/perl5/vendor_perl/5.34.0/XML/PatAct/ActionTempl.pm
+/usr/lib/perl5/vendor_perl/5.34.0/XML/PatAct/Amsterdam.pm
+/usr/lib/perl5/vendor_perl/5.34.0/XML/PatAct/MatchName.pm
+/usr/lib/perl5/vendor_perl/5.34.0/XML/PatAct/PatternTempl.pm
+/usr/lib/perl5/vendor_perl/5.34.0/XML/PatAct/ToObjects.pm
+/usr/lib/perl5/vendor_perl/5.34.0/XML/Perl2SAX.pm
+/usr/lib/perl5/vendor_perl/5.34.0/XML/SAX2Perl.pm
