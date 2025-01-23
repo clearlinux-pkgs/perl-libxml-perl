@@ -7,7 +7,7 @@
 #
 Name     : perl-libxml-perl
 Version  : 0.08
-Release  : 20
+Release  : 21
 URL      : https://cpan.metacpan.org/authors/id/K/KM/KMACLEOD/libxml-perl-0.08.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/K/KM/KMACLEOD/libxml-perl-0.08.tar.gz
 Summary  : Collection of Perl modules for working with XML
